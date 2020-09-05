@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: #ffffff;
+}
+
+nav {
+    background-color: #49b5c1;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin: 0;
+}
+
+h1 {
+    font-weight: 400;
+    color: #ffffff;
+    background-color: #f15b31;
+    letter-spacing: 1px;
+    font-weight: 400;
+    font-size: 45px;  
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0;
+}
+
+a {
+    font-weight: 400;
+    color: #ffffff;
+    text-decoration: none;
+    margin: 20px;
+}
+
+p {
+    font-family: "Droid Serif", serif;
+    line-height: 26px;
+    font-size: 18px;
+}
+
+img {
+    margin: 40px, 8px, 0px, 8px;
+}
+
+footer {
+    text-transform: uppercase;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #0d2c40;
+    color: white;
+    font-size: 14px;
+    letter-spacing: .08em;
+    font-weight: 500;
+}
+
+.buttons:hover{
+    color: black;
+}
